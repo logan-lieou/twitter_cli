@@ -2,7 +2,7 @@
 
 This application is a command line interface in order to interact with twitter without having to use twitter. This is an extremely simple implementation of this idea and is written in python at the moment, if I decide that the app is not performant enough I will re-write this is go.
 
-![twitter cli]("https://raw.githubusercontent.com/logan-lieou/twitter_cli/main/docs/pic1.png")
+![twitter cli](./docs/pic1.png)
 
 > what the program currently looks like
 
